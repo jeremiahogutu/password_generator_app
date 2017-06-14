@@ -21,7 +21,7 @@ input {
 
 .inputArea {
     color: white;
-    font: bold 0.65em cursive;
+    font: bold 0.65em 'Indie Flower', cursive;
 }
 
 .shadow {
@@ -87,19 +87,19 @@ input {
 
 
     h1 {
-        font: bold 2.2em cursive;
+        font: bold 2.2em 'Indie Flower', cursive;;
     }
 
     h4 {
-        font: bold 2em cursive;
+        font: bold 2em 'Indie Flower', cursive;;
     }
 
     p {
-        font: bold 1.2em cursive;
+        font: bold 1.2em 'Indie Flower', cursive;;
     }
 
     span {
-        font: bold 3em cursive;
+        font: bold 3em 'Indie Flower', cursive;;
     }
 
     .wrapper {
@@ -131,16 +131,16 @@ input {
 @media screen and (min-width: 360px) {
 
     h1 {
-        font: bold 2.5em cursive;
+        font: bold 2.5em 'Indie Flower', cursive;
         padding: 5px;
     }
 
     h4 {
-        font: bold 2.4em cursive;
+        font: bold 2.4em 'Indie Flower', cursive;
     }
 
     p {
-        font: bold 1.5em cursive;
+        font: bold 1.5em 'Indie Flower', cursive;
     }
 
     .wrapper {
@@ -168,15 +168,15 @@ input {
 
 @media screen and (min-width: 400px) {
     h1 {
-        font: bold 2.9em cursive;
+        font: bold 2.9em 'Indie Flower', cursive;
     }
 
     h4 {
-        font: bold 2.7em cursive;
+        font: bold 2.7em 'Indie Flower', cursive;
     }
 
     p {
-        font: bold 1.7em cursive;
+        font: bold 1.7em 'Indie Flower', cursive;
     }
 
     .wrapper {
@@ -200,19 +200,19 @@ input {
 
 @media screen and (min-width: 600px) {
     h1 {
-        font: bold 4em cursive;
+        font: bold 4em 'Indie Flower', cursive;
     }
 
     h4 {
-        font: bold 3.8em cursive;
+        font: bold 3.8em 'Indie Flower', cursive;
     }
 
     p {
-        font: bold 2.5em cursive;
+        font: bold 2.5em 'Indie Flower', cursive;
     }
 
     span {
-        font: bold 3.5em cursive;
+        font: bold 3.5em 'Indie Flower', cursive;
     }
 
     .inputArea {
@@ -230,15 +230,15 @@ input {
 
 @media screen and (min-width: 768px) {
     h1 {
-        font: bold 5em cursive;
+        font: bold 5em 'Indie Flower', cursive;
     }
 
     h4 {
-        font: bold 4.4em cursive;
+        font: bold 4.4em 'Indie Flower', cursive;
     }
 
     p {
-        font: bold 3.2em cursive;
+        font: bold 3.2em 'Indie Flower', cursive;
     }
 
     .inputArea {
@@ -258,15 +258,14 @@ input {
 
 @media screen and (min-width: 1366px) {
     h1 {
-        font: bold 4em cursive;
-    }
+        font: bold 4em 'Indie Flower', cursive;
 
     h4 {
-        font: bold 3.5em cursive;
+        font: bold 3.5em 'Indie Flower', cursive;
     }
 
     p {
-        font: bold 1.7em cursive;
+        font: bold 1.7em 'Indie Flower', cursive;
     }
 
     .inputArea {
