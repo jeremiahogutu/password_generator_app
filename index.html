@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Password Generator</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <div class="wrapper">
+        <form name="randomGenerator" action="" id="form1">
+        <h1 class="shadow">Password Generator</h1>
+
+          <div class="instructions">
+             <h4 class="shadow">Instructions</h4>
+                <p>First input the desired password length (1 to 23),</p>
+                <p>then click or tap on the generate password button.</p>
+                <p>Ensure password is stored in a safe place</p>
+          </div>
+
+             <div class="inputArea">
+                <span class="shadow"> <strong>Password Length:</strong></span>
+                 <input id="userInput" type="text" name="passWordLength" value="8">
+            </div>
+
+            <input class="passOutput" type="text" name="output">
+
+
+            <div class="buttonArea">
+            <span class="btn btn-warning">
+                <i class="fa fa-refresh fa-3x"></i><input class="buttonGenerate" type="button" value="Generate Password" onClick="populateForm(this.form.passWordLength.value)">
+             </span>
+            </div>
+        </form>
+    </div>
+<script src="js/main.js"></script>
+</body>
+</html>
