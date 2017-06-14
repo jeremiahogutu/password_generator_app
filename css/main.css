@@ -81,6 +81,7 @@ input {
     width: 2.5em;
     padding: 5px;
     text-align: center;
+    font-family: 'Arvo', serif;
 }
 
 @media screen and (min-width: 300px) {
