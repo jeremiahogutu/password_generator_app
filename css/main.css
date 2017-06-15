@@ -21,7 +21,7 @@ input {
 
 .inputArea {
     color: white;
-    font: bold 0.65em 'Indie Flower', cursive;
+    font: bold 0.65em 'Patrick Hand SC', cursive;
 }
 
 .shadow {
@@ -58,7 +58,8 @@ input {
     text-decoration: none;
     display: inline-block;
     font-size: 1.7em;
-    font-family: 'Arvo', serif;
+    font-family: 'Patrick Hand SC', cursive;
+    font-weight: bold;
 }
 
 .passOutput {
@@ -88,19 +89,19 @@ input {
 
 
     h1 {
-        font: bold 2.2em 'Indie Flower', cursive;;
+        font: bold 2.2em 'Patrick Hand SC', cursive;;
     }
 
     h4 {
-        font: bold 2em 'Indie Flower', cursive;;
+        font: bold 2em 'Patrick Hand SC', cursive;;
     }
 
     p {
-        font: bold 1.2em 'Indie Flower', cursive;;
+        font: bold 1.2em 'Patrick Hand SC', cursive;;
     }
 
     span {
-        font: bold 3em 'Indie Flower', cursive;;
+        font: bold 3em 'Patrick Hand SC', cursive;;
     }
 
     .wrapper {
@@ -132,16 +133,16 @@ input {
 @media screen and (min-width: 360px) {
 
     h1 {
-        font: bold 2.5em 'Indie Flower', cursive;
+        font: bold 2.5em 'Patrick Hand SC', cursive;
         padding: 5px;
     }
 
     h4 {
-        font: bold 2.4em 'Indie Flower', cursive;
+        font: bold 2.4em 'Patrick Hand SC', cursive;
     }
 
     p {
-        font: bold 1.5em 'Indie Flower', cursive;
+        font: bold 1.5em 'Patrick Hand SC', cursive;
     }
 
     .wrapper {
@@ -169,15 +170,15 @@ input {
 
 @media screen and (min-width: 400px) {
     h1 {
-        font: bold 2.9em 'Indie Flower', cursive;
+        font: bold 2.9em 'Patrick Hand SC', cursive;
     }
 
     h4 {
-        font: bold 2.7em 'Indie Flower', cursive;
+        font: bold 2.7em 'Patrick Hand SC', cursive;
     }
 
     p {
-        font: bold 1.7em 'Indie Flower', cursive;
+        font: bold 1.7em 'Patrick Hand SC', cursive;
     }
 
     .wrapper {
@@ -201,19 +202,19 @@ input {
 
 @media screen and (min-width: 600px) {
     h1 {
-        font: bold 4em 'Indie Flower', cursive;
+        font: bold 4em 'Patrick Hand SC', cursive;
     }
 
     h4 {
-        font: bold 3.8em 'Indie Flower', cursive;
+        font: bold 3.8em 'Patrick Hand SC', cursive;
     }
 
     p {
-        font: bold 2.5em 'Indie Flower', cursive;
+        font: bold 2.5em 'Patrick Hand SC', cursive;
     }
 
     span {
-        font: bold 3.5em 'Indie Flower', cursive;
+        font: bold 3.5em 'Patrick Hand SC', cursive;
     }
 
     .inputArea {
@@ -231,15 +232,15 @@ input {
 
 @media screen and (min-width: 768px) {
     h1 {
-        font: bold 5em 'Indie Flower', cursive;
+        font: bold 5em 'Patrick Hand SC', cursive;
     }
 
     h4 {
-        font: bold 4.4em 'Indie Flower', cursive;
+        font: bold 4.4em 'Patrick Hand SC', cursive;
     }
 
     p {
-        font: bold 3.2em 'Indie Flower', cursive;
+        font: bold 3.2em 'Patrick Hand SC', cursive;
     }
 
     .inputArea {
@@ -259,14 +260,14 @@ input {
 
 @media screen and (min-width: 1366px) {
     h1 {
-        font: bold 4em 'Indie Flower', cursive;
+        font: bold 4em 'Patrick Hand SC', cursive;
 
     h4 {
-        font: bold 3.5em 'Indie Flower', cursive;
+        font: bold 3.5em 'Patrick Hand SC', cursive;
     }
 
     p {
-        font: bold 1.7em 'Indie Flower', cursive;
+        font: bold 1.7em 'Patrick Hand SC', cursive;
     }
 
     .inputArea {
